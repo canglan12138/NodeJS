@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02/feedback" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/feedback1.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/feedback2.0express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongodb/crud-express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/studentslist-callback" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/studentslist-promise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/学生名单-Promise/crud-express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/学生名单-回调函数/crud-express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/留言本改造/feedback" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+{{ extend './layout.html' }}
+
+{{ block 'style' }}
+<style>
+	div {
+		background-color: blue;
+	}
+</style>
+{{ /block }}
+
+{{ block 'content' }}
+	<div>
+		<h1>index页面填坑内容</h1>
+	</div>
+{{ /block }}
+
+{{ block 'script' }}
+	<script>
+		window.alert('index 页面对话框')
+	</script>
+{{ /block }}
